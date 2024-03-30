@@ -1,0 +1,11 @@
+C:\Users\Blady Zink\source\repos\CRUDwinformdataset\bin\Debug\CRUDwinformdataset.exe.config
+C:\Users\Blady Zink\source\repos\CRUDwinformdataset\bin\Debug\CRUDwinformdataset.exe
+C:\Users\Blady Zink\source\repos\CRUDwinformdataset\bin\Debug\CRUDwinformdataset.pdb
+C:\Users\Blady Zink\source\repos\CRUDwinformdataset\obj\Debug\CRUDwinformdataset.csproj.AssemblyReference.cache
+C:\Users\Blady Zink\source\repos\CRUDwinformdataset\obj\Debug\CRUDwinformdataset.Form1.resources
+C:\Users\Blady Zink\source\repos\CRUDwinformdataset\obj\Debug\CRUDwinformdataset.Properties.Resources.resources
+C:\Users\Blady Zink\source\repos\CRUDwinformdataset\obj\Debug\CRUDwinformdataset.csproj.GenerateResource.cache
+C:\Users\Blady Zink\source\repos\CRUDwinformdataset\obj\Debug\CRUDwinformdataset.csproj.CoreCompileInputs.cache
+C:\Users\Blady Zink\source\repos\CRUDwinformdataset\obj\Debug\CRUDwinformdataset.exe
+C:\Users\Blady Zink\source\repos\CRUDwinformdataset\obj\Debug\CRUDwinformdataset.pdb
+C:\Users\Blady Zink\source\repos\CRUDwinformdataset\obj\Debug\CRUDwinformdataset.FrmUsers.resources
