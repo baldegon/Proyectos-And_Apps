@@ -1,0 +1,10 @@
+D:\Programacion\Proyectos\Proyectos C# - .NET\To Do List\bin\Debug\To Do List.exe.config
+D:\Programacion\Proyectos\Proyectos C# - .NET\To Do List\bin\Debug\To Do List.exe
+D:\Programacion\Proyectos\Proyectos C# - .NET\To Do List\bin\Debug\To Do List.pdb
+D:\Programacion\Proyectos\Proyectos C# - .NET\To Do List\obj\Debug\To Do List.csproj.AssemblyReference.cache
+D:\Programacion\Proyectos\Proyectos C# - .NET\To Do List\obj\Debug\To_Do_List.ToDoList.resources
+D:\Programacion\Proyectos\Proyectos C# - .NET\To Do List\obj\Debug\To_Do_List.Properties.Resources.resources
+D:\Programacion\Proyectos\Proyectos C# - .NET\To Do List\obj\Debug\To Do List.csproj.GenerateResource.cache
+D:\Programacion\Proyectos\Proyectos C# - .NET\To Do List\obj\Debug\To Do List.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Proyectos C# - .NET\To Do List\obj\Debug\To Do List.exe
+D:\Programacion\Proyectos\Proyectos C# - .NET\To Do List\obj\Debug\To Do List.pdb
